@@ -1,0 +1,64 @@
+html a {
+    color: black;
+}
+.red {
+    background: tomato;
+    padding: 30px;
+    width: 250px;
+}
+.home1 {
+   background: yellow;
+   padding: 15px;
+   border-radius: 15px;
+}
+.about1 {
+     background: yellow;
+     padding: 15px;
+    border-radius: 15px;
+}
+.contact1 {
+    background: yellow;
+    padding: 15px;
+    border-radius: 15px;
+}
+.green {
+    margin-top: 20px;
+    background: green;
+    padding: 20px;
+}
+.clickme {
+    text-align: center;
+    width: 70px;
+    margin: 0 auto;
+    background: yellow;
+    padding: 15px;
+    border-radius: 15px;
+}
+.pink {
+    margin-top: 20px;
+    background: magenta;
+    padding: 30px;
+    height: 30px;
+}
+
+.right {
+   float: right;
+   text-align: center;
+   margin: 5px;
+}
+
+.home2 {
+    background: yellow;
+    padding: 15px;
+    border-radius: 15px;
+ }
+ .about2 {
+    background: yellow;
+    padding: 15px;
+    border-radius: 15px;
+ }
+ .contact2 {
+    background: yellow;
+    padding: 15px;
+    border-radius: 15px;
+ }
